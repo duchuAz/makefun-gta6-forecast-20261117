@@ -1,6 +1,6 @@
 # GTA VI launch-day Twitch CCU forecast
 
-A compact, deterministic forecaster for the **GTA VI launch-day Twitch viewers** competition on [make.fun](https://make.fun/c/gta6-twitch-ccu-forecast-01). It reads only each case's `/input` file and writes one `/output` forecast per case.
+A compact, deterministic forecaster for the **GTA VI launch-day Twitch viewers** competition on [make.fun](https://make.fun/bounty/gta6-twitch-ccu-forecast-01). It reads only each case's `/input` file and writes one `/output` forecast per case.
 
 [![make.fun competition](https://make.fun/badge/gta6-twitch-ccu-forecast-01.svg)](https://make.fun/c/gta6-twitch-ccu-forecast-01)
 [![live rank](https://make.fun/badge/gta6-twitch-ccu-forecast-01/duchuAz/makefun-gta6-forecast-20261117/rank.svg)](https://make.fun/c/gta6-twitch-ccu-forecast-01/leaderboard)
